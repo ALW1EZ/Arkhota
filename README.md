@@ -34,7 +34,7 @@ You need to specify a body **if** you are going to make a POST request.
 
 _Single: Sets a single username_
 
-_Generate: Generates runtime_
+_Generate: Generates runtime with given options_
 
 _Wordlists: Sets prepared wordlist_
 
@@ -48,7 +48,7 @@ _You need to specify a username **if you selected Single**._
 
 - Charset selectors
 
-[W] _You need to specify charset, min & max length to generate runtime.
+[W] _You need to specify charset, min & max length to generate runtime._
 
 **If you selected Generate**, checkboxes will help you to select._
 
