@@ -1,5 +1,6 @@
-
 # Arkhota, a web brute forcer for Android
+
+![Banner](README-src/banner.png)
 
 ## What?
 Arkhota is a web (HTTP/S) brute forcer for Android.

@@ -1,0 +1,3 @@
+Arkhota, a web brute forcer for Android.
+
+Arkhota is for quick and undercover brute-force attacks with minimal device preparation.
