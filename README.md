@@ -18,30 +18,42 @@ You can download APK from [there](https://github.com/ALW1EZ/Arkhota/releases).
 Explanation is in order of objects in the APK from top to bottom.
 #### Banner
 - Banner, version & author
+
 You can long click to **version** to see about page.
 #### Connection
 - URL (required)
+
 An URL to make request.
 
 - Body
+
 You need to specify a body **if** you are going to make a POST request.
 
 #### Userlist / Wordlist
 - Userlist selector
+
 _Single: Sets a single username_
+
 _Generate: Generates runtime_
+
 _Wordlists: Sets prepared wordlist_
+
 _Custom wordlist: You can place your custom wordlist to /sdcard/ABF/_
+
 _Then this selector will have it (if required permissions given.)._
 
 - Username box
+
 _You need to specify a username **if you selected Single**._
 
 - Charset selectors
+
 [W] _You need to specify charset, min & max length to generate runtime.
+
 **If you selected Generate**, checkboxes will help you to select._
 
 - Prefix & Suffix
+
 _You can specify prefix & suffix to be added to your username_
 
 #### It's same for the password part too.
@@ -49,33 +61,45 @@ _You can specify prefix & suffix to be added to your username_
 
 #### Configuration
 - Beep switch
+
 _Beeps if attack success._
 
 - Fail/Success switch
+
 _Decides how to react connection response_
 
 - POST/GET switch
+
 _Decides type of connection_
 
 - User-Agent
+
 _Sets user-agent for connection.
+
 **if** "Original UA" set, then original user-agent set
+
 **Othervise** given text will set to user-agent_
+
 ##### **tip: It has autocomplete for several user-agents, all of them starts with "Mozilla", type and select one if you don't want to expose your original ua, but you don't know what to set**
 
 - Timeout
+
 _Sets timeout for connection, in milliseconds_
 
 - Cookie
+
 _Sets cookie value for connection_
 
 - Regex (required)
+
 _Determines what to look in connection response_
 
 - Empty box
+
 _Tried username:password pairs & result will shown there._
 
 - [W] Start
+
 _Starts attack!_
 
 ## Important
