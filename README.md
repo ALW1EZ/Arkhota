@@ -12,7 +12,7 @@ Also a phone takes less attention rather than a laptop/computer.
 For this situations here's Arkhota.
 
 ## Download
-You can download APK form [there](https://github.com/ALW1EZ/Arkhota/releases).
+You can download APK from [there](https://github.com/ALW1EZ/Arkhota/releases).
 
 ## Usage
 Explanation is in order of objects in the APK from top to bottom.
@@ -94,7 +94,7 @@ Otherwise copies whole content.
 
 If attack is over and unsuccessful, it just stops at the last user:password.
 
-## Screenshots
+## Screenshots & Videos
 ![1](README-src/1.jpg)
 ![2](README-src/2.jpg)
 ![3](README-src/3.jpg)
@@ -106,6 +106,8 @@ If attack is over and unsuccessful, it just stops at the last user:password.
 ![9](README-src/9.jpg)
 ![10](README-src/10.jpg)
 ![From server's side](README-src/pc-1.png)
+
+[![ABF Demo](https://img.youtube.com/vi/CIazE0Jhj_c/0.jpg)](https://www.youtube.com/watch?v=CIazE0Jhj_c)
 
 ## [W]arning
 
@@ -121,7 +123,7 @@ You don't need to re-start attack, just click on switch and it won't beep when a
 ### About "Generate" & Custom wordlists
 The Generate option is **NOT** recommended
 Runtime generating & parsing is a really hard work for a phone.
-Also it's not stable.
+Also it's not stable, all possible words will be generated, but may not be sequentially.
 If you really need to select it, keep everything minimum.
 If your phone freezes or crashes, you know selected options is not suitable your phone's processor.
 
