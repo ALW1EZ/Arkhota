@@ -123,7 +123,7 @@ You don't need to re-start attack, just click on switch and it won't beep when a
 ### About "Generate" & Custom wordlists
 The Generate option is **NOT** recommended
 Runtime generating & parsing is a really hard work for a phone.
-Also it's not stable, all possible words will be generated, but may not be sequentially.
+Also it's not stable, all possible words will be generated, but may not be sequential.
 If you really need to select it, keep everything minimum.
 If your phone freezes or crashes, you know selected options is not suitable your phone's processor.
 
