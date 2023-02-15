@@ -3,7 +3,7 @@
 ![Banner](README-src/banner.png)
 
 ## What?
-Arkhota is a web (HTTP/S) brute forcer for Android.
+Arkhota is a web (HTTP/S) brute forcer for Android OS.
 
 ## Why?
 A web brute forcer is always in a hacker's computer, for obvious reasons.
